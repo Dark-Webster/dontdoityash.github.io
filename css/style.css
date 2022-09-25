@@ -807,7 +807,7 @@ body.web-on .web-section {
   margin-bottom: 0;
 }
 .abt-head {
-	font-family: Poppins;
+	font-family: Poppins, sans-serif;
 	text-transform: uppercase;
 	font-size: 18px;
 }
